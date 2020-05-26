@@ -112,6 +112,7 @@ h1 {
     color: #121212;
     border: none;
     font-weight: 600;
+    margin-bottom: 40px;
 }
 
 .header_btn:hover {
@@ -341,7 +342,9 @@ h4 {
         text-align: center;
         margin-bottom: 5%;
     }
-
+    .header_main {
+        height: auto;
+    }
     .header_main_content {
         display: flex;
         flex-direction: column;
