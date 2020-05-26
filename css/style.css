@@ -378,7 +378,12 @@ h4 {
     .container {
         width: 440px;
     }
-
+    h2 {
+        margin-top: 50px;
+    }
+    .main_content_item {
+        margin-top: 80px;
+    }
     .header_location_content {
         display: flex;
         margin-left: 10%;
